@@ -1,0 +1,9 @@
+.git
+evidence
+.data
+.env*
+.eve
+.output
+imports
+private
+reports
