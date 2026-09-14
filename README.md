@@ -1,4 +1,4 @@
-# Callweave
+# Threadwise
 
 A private Eve assistant for any call. Share meeting-tab audio and your microphone, or paste a transcript, to receive live coaching. Calls have durable transcripts and an attached memory space for notes, reference text, and remembered conversations.
 
